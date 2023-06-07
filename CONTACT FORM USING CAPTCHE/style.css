@@ -1,0 +1,13 @@
+
+body {
+    background-color: rgb(252, 229, 128);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5px;
+  }
+  .btn{
+    color:#000;
+  }
